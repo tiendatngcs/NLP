@@ -6,7 +6,7 @@ We scrape articles from vnexpress.net, the most well-known digital news site in 
 Source of news articles used: [vnexpress.net](https://vnexpress.net/)
 
 ### Setup
-Requirement
+Requirements
 * Python3
 * git
 
