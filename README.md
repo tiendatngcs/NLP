@@ -16,4 +16,4 @@ cd NLP
 python3 ArticleReader.py
 ```
 ### Application interface
-![](images/VATC_GUI.png)
+![](images/VATC_UI.png)
