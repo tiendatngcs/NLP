@@ -16,4 +16,7 @@ cd NLP
 python3 ArticleReader.py
 ```
 ### Application interface
-![](images/VATC_UI.png)
+![](images/VATC_GUI.png)
+
+### Prediction model metrics of performance
+![](images/VATC_metrics.png)
